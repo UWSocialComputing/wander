@@ -6,7 +6,7 @@ With a map-based search of local events, it is easier then ever to find somethin
 
 ## Meet the Team!
 
-<div style="display: flex; flex-wrap: nowrap;">
+<div style="display: flex; flex-wrap: nowrap; justify-content: center;">
     <figure style="text-align: center; margin: 10px;">
         <img src="blog-imgs/Noa.jpg" alt="Noa" style="width: auto; max-height: 200px; object-fit: contain;" />
         <figcaption><a href="https://www.linkedin.com/in/noaferman">Noa Ferman</a></figcaption>
