@@ -1,4 +1,4 @@
-# Welcome to What's the Move? 
+# Welcome to What's the Move?
 
 ## About What's the Move?
 We created What's the Move? with the goal of helping people connect through small-scale, in-person events.
@@ -8,15 +8,15 @@ With a map-based search of local events, it is easier then ever to find somethin
 
 <div style="display: flex; flex-wrap: nowrap;">
     <figure style="text-align: center; margin: 10px;">
-        <img src="Noa.png" alt="Image 1" style="max-width: 200px; max-height: 200px; object-fit: contain;" />
+        <img src="blog-imgs/Noa.jpg" alt="Noa" style="width: auto; max-height: 200px; object-fit: contain;" />
         <figcaption><a href="https://www.linkedin.com/in/noaferman">Noa Ferman</a></figcaption>
     </figure>
     <figure style="text-align: center; margin: 10px;">
-        <img src="Jaela.png" alt="Image 2" style="max-width: 200px; max-height: 200px; object-fit: contain;" />
+        <img src="blog-imgs/Jaela.png" alt="Jaela" style="width: auto; max-height: 200px; object-fit: contain;" />
         <figcaption><a href="https://www.linkedin.com/in/jaela-field/">Jaela Field</a></figcaption>
     </figure>
     <figure style="text-align: center; margin: 10px;">
-        <img src="Katherine.png" alt="Image 3" style="max-width: 200px; max-height: 200px; object-fit: contain;" />
+        <img src="blog-imgs/Katherine.png" alt="Katherine" style="width: auto; max-height: 200px; object-fit: contain;" />
         <figcaption><a href="https://www.linkedin.com/in/katherine2001/">Katherine Murphy</a></figcaption>
     </figure>
 </div>
