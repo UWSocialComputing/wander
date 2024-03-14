@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+* {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#intro {
+  max-height: 90px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
