@@ -1,13 +1,15 @@
 <!-- ## About What's the Move? -->
 
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; text-align: center">
-    <h2 style="font-weight: 400px margin: 10px; max-height: 90px"> Introducing </h2>
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; text-align: center gap: 20px">
+    <h1 style="max-height: 90px margin-top: auto margin-bottom: auto"> Introducing... </h1>
     <figure style="margin: 10px;">
         <img src="blog-imgs/Logo.png" alt="wtm? Logo (text with pin icon)" style="width: auto; max-height: 90px;" />
     </figure>
 </div>
 
-We created this app with the goal of helping young adults connect through small-scale in-person events. Featuring a map-based search of local events, with the help of *What's the Move?* it is easier then ever to find something fun to do!
+<p>
+    The app making it easier than ever to decide <strong><em>what's the move?</em></strong>
+</p>
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center;">
     <figure style="text-align: center; margin: 10px;">
