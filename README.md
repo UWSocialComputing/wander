@@ -1,5 +1,4 @@
-# Welcome to What's the Move? 
-
+![Logo of What's the Move?](blog-imgs/Logo.png)
 ## About What's the Move?
 We created What's the Move? with the goal of helping people connect through small-scale, in-person events.
 With a map-based search of local events, it is easier then ever to find something fun to do!
