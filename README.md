@@ -1,6 +1,6 @@
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; text-align: center gap: 20px">
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; text-align: center; gap: 20px">
     <h1 id="intro"> Introducing... </h1>
-    <figure style="margin: 10px;">
+    <figure style="margin: 10px; max-height: 90px; margin-top: auto; margin-bottom: auto;">
         <img src="blog-imgs/Logo.png" alt="wtm? Logo (text with pin icon)" style="width: auto; max-height: 90px;" />
     </figure>
 </div>
