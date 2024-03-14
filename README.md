@@ -1,12 +1,19 @@
-<div style="display: flex; flex-wrap: nowrap; justify-content: center;">
-    <figure style="text-align: center; margin: 10px;">
-        <img src="blog-imgs/Logo.png" alt="Logo" style="width: auto; max-height: 200px; object-fit: contain;" />
+<!-- ## About What's the Move? -->
+
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; text-align: center">
+    <h2 style="font-weight: 400px margin: 10px; max-height: 90px"> Introducing </h2>
+    <figure style="margin: 10px;">
+        <img src="blog-imgs/Logo.png" alt="wtm? Logo (text with pin icon)" style="width: auto; max-height: 90px;" />
     </figure>
 </div>
 
+We created this app with the goal of helping young adults connect through small-scale in-person events. Featuring a map-based search of local events, with the help of *What's the Move?* it is easier then ever to find something fun to do!
 
-## About What's the Move?
-We created *What's the Move?* with the goal of helping young adults connect through small-scale in-person events. Featuring a map-based search of local events, with the help of *What's the Move?* it is easier then ever to find something fun to do!
+<div style="display: flex; flex-wrap: nowrap; justify-content: center;">
+    <figure style="text-align: center; margin: 10px;">
+        <img src="blog-imgs/poster.png" alt="poster.png" style="width: auto; max-height: auto; object-fit: contain;" />
+    </figure>
+</div>
 
 ## Meet the Team!
 
