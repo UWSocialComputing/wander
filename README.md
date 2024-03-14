@@ -1,4 +1,10 @@
-![Logo of What's the Move?](blog-imgs/Logo.png)
+<div style="display: flex; flex-wrap: nowrap; justify-content: center;">
+    <figure style="text-align: center; margin: 10px;">
+        <img src="blog-imgs/Logo.png" alt="Logo" style="width: auto; max-height: 200px; object-fit: contain;" />
+    </figure>
+</div>
+
+
 ## About What's the Move?
 We created What's the Move? with the goal of helping people connect through small-scale, in-person events.
 With a map-based search of local events, it is easier then ever to find something fun to do!
