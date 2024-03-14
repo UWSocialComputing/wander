@@ -6,8 +6,7 @@
 
 
 ## About What's the Move?
-We created What's the Move? with the goal of helping people connect through small-scale, in-person events.
-With a map-based search of local events, it is easier then ever to find something fun to do!
+We created *What's the Move?* with the goal of helping young adults connect through small-scale in-person events. Featuring a map-based search of local events, with the help of *What's the Move?* it is easier then ever to find something fun to do!
 
 ## Meet the Team!
 
@@ -26,20 +25,20 @@ With a map-based search of local events, it is easier then ever to find somethin
     </figure>
 </div>
 
-# Blog Posts
+# Posts
 
-## [User Research Report](/G1.md)
+### [User Research Report](/G1.md)
 
-## [Pitch Presentation](/G2.md)
+### [Pitch Presentation](/G2.md)
 
-## [Low Fidelity Prototype](/G3.md)
+### [Low Fidelity Prototype](/G3.md)
 
-## [Code and Design Specification](/G4.md)
+### [Code and Design Specification](/G4.md)
 
-## [Midterm Presentation](/G5.md)
+### [Midterm Presentation](/G5.md)
 
-## [User Testing](/G6.md)
+### [User Testing](/G6.md)
 
-## [Digital Prototype](/G7.md)
+### [Digital Prototype](/G7.md)
 
-## [Video Demo](/G8.md)
+### [Video Demo](/G8.md)
