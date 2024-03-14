@@ -1,5 +1,3 @@
-<!-- ## About What's the Move? -->
-
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; text-align: center gap: 20px">
     <h1 id="intro"> Introducing... </h1>
     <figure style="margin: 10px;">
